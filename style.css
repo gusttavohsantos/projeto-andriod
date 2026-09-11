@@ -30,6 +30,7 @@
        background-image: linear-gradient(to bottom, var(--cor4), var(--cor5));
         min-height: 150px;
         text-align: center;
+        min-width: 150px;
        
     }
 
@@ -195,7 +196,7 @@ footer {
     padding: 3px;
     margin-top: 20px;
     color: black;
-    width: 100%;
+    min-width: 250px;
 }
 
 footer a {
